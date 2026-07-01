@@ -4,7 +4,7 @@ This repository contains the source code for my personal portfolio website. I am
 
 ## Live Website Link
 The live portfolio can be accessed at the following link:
-[Insert Your GitHub Pages Link Here]
+(https://dayemkhan.github.io/portfolio/)
 
 ## Technical Skills
 * Frontend: HTML5, CSS3, JavaScript, Bootstrap
